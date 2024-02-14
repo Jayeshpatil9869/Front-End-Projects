@@ -1,6 +1,6 @@
 # Front-End Projects Showcase
 
-Welcome to the Front-End Projects Showcase, where creativity meets learning! Explore a diverse collection of engaging projects designed to enhance your skills in HTML, CSS, and JavaScript. Whether you're a beginner or a seasoned developer, there's something here for everyone. Let's embark on a journey of discovery:
+Welcome to the Front-End Projects Showcase, where creativity meets learning! Explore a diverse collection of engaging projects designed to enhance your skills in HTML, CSS, and JavaScript. Whether you're a beginner or a seasoned developer, there's something here for everyone.
 
 ## Projects:
 
