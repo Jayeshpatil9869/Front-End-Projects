@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(170, 169, 169);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main img {
+  height: 500px;
+  position: relative;
+  z-index: 99;
+  width: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.scroll-div {
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.scroll-div h1 {
+  font-size: 150px;
+  text-transform: uppercase;
+  margin-right: 30px;
+  letter-spacing: 4px;
+  display: inline-block;
+  animation-name: scroll;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.scroll-div::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-div2 {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  z-index: 100;
+}
+
+.scroll-div2 h1 {
+  font-size: 150px;
+  text-transform: uppercase;
+  margin-right: 30px;
+  letter-spacing: 4px;
+  display: inline-block;
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #000;
+  animation-name: scroll;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.scroll-div2::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-div3 {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.scroll-div3 h1 {
+  font-size: 150px;
+  text-transform: uppercase;
+  margin-right: 30px;
+  letter-spacing: 4px;
+  display: inline-block;
+  animation-name: scroll;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: reverse;
+}
+.scroll-div3::-webkit-scrollbar {
+  display: none;
+}
+
+.text {
+  font-size: 25px;
+  position: absolute;
+  top: 10%;
+  width: 60%;
+  text-align: center;
+  text-transform: uppercase;
+  z-index: 999;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(calc(-100% - 35px));
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@media (max-width: 768px) {
+  .main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .main img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+  }
+
+  .text {
+    font-size: 20px;
+    position: absolute;
+    top: 4%;
+    width: 80%;
+  }
+}
