@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+  /* background-color: #000000d3; */
+  background-color: #6b7380;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 575px;
+  text-decoration: underline #fff;
+  left: 6%;
+  top: 5%;
+  /* background-color: red; */
+}
+
+.nav img {
+  height: 60px;
+}
+.nav h5 {
+  font-size: 24px;
+  color: #fff;
+}
+
+.part1 {
+  height: 100%;
+  width: 26%;
+  /* background-color: rgb(212, 80, 80); */
+}
+.part2 {
+  height: 100%;
+  width: 67%;
+
+  background-image: url("https://images.unsplash.com/photo-1500757045557-7864506cf31c?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-color: rgb(75, 174, 204);
+}
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  background-color: #4444444d;
+}
+.part3 {
+  height: 100%;
+  width: 7%;
+  /* background-color: rgb(105, 105, 228); */
+}
+
+.text-div {
+  /* height: 300px; */
+  position: absolute;
+  width: 40%;
+  /* background-color: red; */
+  left: 6%;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.text-div > h1 {
+  letter-spacing: 5px;
+
+  font-size: 85px;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 78px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.small-img-dev {
+  height: 400px;
+  width: 300px;
+  /* background-color: rebeccapurple; */
+  background-image: url("https://images.unsplash.com/photo-1504203772830-87fba72385ee?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  top: 50%;
+  right: 4%;
+  transform: translate(0, -50%);
+}
+
+.vertical-text {
+  position: absolute;
+  /* width: 100%; */
+  /* background-color: red; */
+  right: -19%;
+  transform-origin: 0% 0%;
+}
+
+.vertical-text h1 {
+  font-size: 80px;
+  color: transparent;
+  font-weight: 900;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+  transform: rotate(90deg);
+}
