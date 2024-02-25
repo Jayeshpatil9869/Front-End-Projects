@@ -20,7 +20,7 @@ Welcome to the Front-End Projects Showcase, where creativity meets learning! Exp
 
 8. **Layout Animation** 🎨 - Bring your layouts to life with CSS animations and transitions, adding dynamic movement to navigation menus, buttons, and images.
 
-9. **Lonely** 😔 - Explore the theme of solitude through minimalist design principles, crafting a simple yet impactful webpage that evokes emotion.
+9. **Lonely** 🙂 - Explore the theme of solitude through minimalist design principles, crafting a simple yet impactful webpage that evokes emotion.
 
 10. **Modern Fashion** 👗 - Strut your stuff in the world of fashion with a trendy website showcasing the latest styles, collections, and fashion tips.
 
