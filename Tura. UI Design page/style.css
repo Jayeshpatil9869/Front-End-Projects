@@ -1,0 +1,116 @@
+@font-face {
+  font-family: Gilroy;
+  src: url(./Gilroy-Medium.e7e7c091.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  /* cursor: none; */
+  font-family: Gilroy;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.home {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: #191b1f;
+}
+
+.nav {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4vw 4vw;
+}
+
+.nav a {
+  text-decoration: none;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.nav .part1 h1 {
+  font-size: 2.6vw;
+}
+
+.nav .part2 {
+  display: flex;
+  gap: 6vw;
+  text-transform: uppercase;
+}
+
+.nav .part2 h2 {
+  font-size: 1.4vw;
+}
+
+.mainCtn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+
+.mainCtn h1 {
+  font-weight: 900;
+  font-size: 16vw;
+}
+.mainCtn .firsth1 {
+  position: absolute;
+  font-weight: normal;
+  color: #b8b8b8;
+  font-size: 1.8vw;
+  left: 20%;
+}
+.mainCtn h2:nth-child(3) {
+  font-size: 1.2vw;
+  font-weight: normal;
+  position: relative;
+  top: 90%;
+  left: 51%;
+  letter-spacing: 6px;
+  color: #b8b8b8;
+  width: 60%;
+}
+
+.right {
+  position: absolute;
+  overflow: hidden;
+  bottom: 15%;
+  right: -1%;
+  transform: rotate(90deg);
+}
+.right h2,
+i {
+  font-size: 1vw;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.left {
+  display: flex;
+  flex-direction: column-reverse;
+  position: absolute;
+  top: 82%;
+  left: 2.6%;
+  padding: 0vw 1vw;
+}
+
+.left a {
+  text-decoration: none;
+  padding: 0.3vw 0vw;
+}
+
+.left a i {
+  font-size: 1.6vw;
+  transition: transform 0.1s linear;
+}
