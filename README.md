@@ -5,7 +5,7 @@ Welcome to the Front-End Projects Showcase, where creativity meets learning! Exp
 ## Projects:
 
 1. **Cars Page** 🚗 - Rev up your coding skills by creating a sleek webpage featuring various car models with stunning visuals and informative descriptions.
-2. - https://codepen.io/RjayCode/pen/vYPQJzL
+   - https://codepen.io/RjayCode/pen/vYPQJzL
 
 3. **Circle Rotate Animation** 🔄 - Take CSS animations for a spin and mesmerize your audience with a captivating rotating circle animation that adds flair to any webpage.
 
