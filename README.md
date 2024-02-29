@@ -5,28 +5,29 @@ Welcome to the Front-End Projects Showcase, where creativity meets learning! Exp
 ## Projects:
 
 1. **Cars Page** 🚗 - Rev up your coding skills by creating a sleek webpage featuring various car models with stunning visuals and informative descriptions.
+   - https://codepen.io/RjayCode/pen/vYPQJzL
 
-2. **Circle Rotate Animation** 🔄 - Take CSS animations for a spin and mesmerize your audience with a captivating rotating circle animation that adds flair to any webpage.
+3. **Circle Rotate Animation** 🔄 - Take CSS animations for a spin and mesmerize your audience with a captivating rotating circle animation that adds flair to any webpage.
 
-3. **Coffee Webpage** ☕ - Brew up a delightful webpage dedicated to coffee aficionados, complete with details on different coffee types, brewing methods, and more.
+4. **Coffee Webpage** ☕ - Brew up a delightful webpage dedicated to coffee aficionados, complete with details on different coffee types, brewing methods, and more.
 
-4. **Digital Designer** 💻 - Showcase your design chops with a portfolio website tailored for digital designers, highlighting their creative work and talents.
+5. **Digital Designer** 💻 - Showcase your design chops with a portfolio website tailored for digital designers, highlighting their creative work and talents.
 
-5. **Digital Performance** ⚡ - Accelerate your web development skills with a performance-focused website that showcases digital services or products with lightning-fast speed.
+6. **Digital Performance** ⚡ - Accelerate your web development skills with a performance-focused website that showcases digital services or products with lightning-fast speed.
 
-6. **Interior Landing Page** 🏠 - Step into the world of interior design with a stylish landing page showcasing inspiring projects, services, and design philosophy.
+7. **Interior Landing Page** 🏠 - Step into the world of interior design with a stylish landing page showcasing inspiring projects, services, and design philosophy.
 
-7. **Landing Page Project** 🚀 - Launch your creativity with a versatile landing page template perfect for various purposes, from product launches to event promotions.
+8. **Landing Page Project** 🚀 - Launch your creativity with a versatile landing page template perfect for various purposes, from product launches to event promotions.
 
-8. **Layout Animation** 🎨 - Bring your layouts to life with CSS animations and transitions, adding dynamic movement to navigation menus, buttons, and images.
+9. **Layout Animation** 🎨 - Bring your layouts to life with CSS animations and transitions, adding dynamic movement to navigation menus, buttons, and images.
 
-9. **Lonely** 🙂 - Explore the theme of solitude through minimalist design principles, crafting a simple yet impactful webpage that evokes emotion.
+10. **Lonely** 🙂 - Explore the theme of solitude through minimalist design principles, crafting a simple yet impactful webpage that evokes emotion.
 
-10. **Modern Fashion** 👗 - Strut your stuff in the world of fashion with a trendy website showcasing the latest styles, collections, and fashion tips.
+11. **Modern Fashion** 👗 - Strut your stuff in the world of fashion with a trendy website showcasing the latest styles, collections, and fashion tips.
 
-11. **Sundown Studio** 🌅 - Capture the magic of golden hour with a website for a fictional photography studio specializing in breathtaking sunset scenes.
+12. **Sundown Studio** 🌅 - Capture the magic of golden hour with a website for a fictional photography studio specializing in breathtaking sunset scenes.
 
-12. **Visual & Product Designer** 🎨 - Curate a stunning portfolio website highlighting the work of visual and product designers, showcasing their innovative projects and skills.
+13. **Visual & Product Designer** 🎨 - Curate a stunning portfolio website highlighting the work of visual and product designers, showcasing their innovative projects and skills.
 
 ## Usage:
 
