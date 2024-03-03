@@ -1,8 +1,5 @@
-# Front-End Projects Showcase
 
-# Web Design Projects Showcase
-
-Welcome to the Web Design Projects Showcase! Below, you'll find a collection of projects showcasing various web design concepts and techniques. Each project is designed to demonstrate different aspects of web development, from animations and page transitions to UI design and layout. Feel free to explore each project by clicking on the links provided.
+Welcome, you'll find a collection of projects showcasing various web design concepts and techniques. Each project is designed to demonstrate different aspects of web development, from animations and page transitions to UI design and layout. Feel free to explore each project by clicking on the links provided.
 
 ### Cars-page
 Description: A webpage showcasing various car models with detailed information and interactive features.
