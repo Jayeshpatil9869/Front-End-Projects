@@ -7,6 +7,7 @@ Description: A webpage showcasing various car models with detailed information a
 
 ### Circle Rotate Animation
 Description: An animated circle rotating on the screen with smooth transitions and effects.
+- https://codepen.io/RjayCode/pen/QWoJMzQ
 
 ### Coffee Webpage
 Description: A webpage dedicated to coffee lovers, featuring information about different types of coffee, brewing methods, and more.
