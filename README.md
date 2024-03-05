@@ -11,6 +11,7 @@ Description: An animated circle rotating on the screen with smooth transitions a
 
 ### Coffee Webpage
 Description: A webpage dedicated to coffee lovers, featuring information about different types of coffee, brewing methods, and more.
+- https://codepen.io/RjayCode/pen/ExMOvGJ
 
 ### Digital Designer
 Description: Portfolio website of a digital designer showcasing their projects, skills, and expertise.
