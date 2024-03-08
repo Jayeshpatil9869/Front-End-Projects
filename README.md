@@ -26,6 +26,7 @@ Description: Portfolio website of a design studio showcasing their projects and 
 
 ### Gsap 2 Page Animation
 Description: An animated webpage created using GSAP, featuring smooth transitions and interactive elements.
+- https://codepen.io/RjayCode/pen/JjVoKaM
 
 ### Gsap Page Loading Port
 Description: A webpage with a custom page loading animation created using GSAP.
