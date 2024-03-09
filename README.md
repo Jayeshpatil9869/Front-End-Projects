@@ -21,9 +21,6 @@ Description: Portfolio website of a digital designer showcasing their projects, 
 Description: A website highlighting digital performance metrics and analytics tools for businesses.
 - https://codepen.io/RjayCode/pen/dyrQzro
 
-### Duo-Studio
-Description: Portfolio website of a design studio showcasing their projects and services.
-
 ### Gsap 2 Page Animation
 Description: An animated webpage created using GSAP, featuring smooth transitions and interactive elements.
 - https://codepen.io/RjayCode/pen/JjVoKaM
