@@ -25,17 +25,13 @@ Description: A website highlighting digital performance metrics and analytics to
 Description: An animated webpage created using GSAP, featuring smooth transitions and interactive elements.
 - https://codepen.io/RjayCode/pen/JjVoKaM
 
-### Gsap Page Loading Port
-Description: A webpage with a custom page loading animation created using GSAP.
-
 ### Gsap We Build Brand Page
 Description: A webpage showcasing brand-building services with animated elements created using GSAP.
-
-### Gsap-ScrollTrigger-Learning
-Description: A webpage demonstrating the use of GSAP's ScrollTrigger plugin for creating interactive scroll animations.
+- https://codepen.io/RjayCode/pen/vYMEKVQ
 
 ### Gsap-Squarespace-Animation
 Description: A webpage featuring animations created with GSAP, designed for integration with Squarespace websites.
+-https://codepen.io/RjayCode/pen/xxebOJP
 
 ### Interior Landing Page
 Description: A landing page for an interior design firm, showcasing their portfolio and services.
