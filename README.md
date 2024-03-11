@@ -31,10 +31,11 @@ Description: A webpage showcasing brand-building services with animated elements
 
 ### Gsap-Squarespace-Animation
 Description: A webpage featuring animations created with GSAP, designed for integration with Squarespace websites.
--https://codepen.io/RjayCode/pen/xxebOJP
+- https://codepen.io/RjayCode/pen/xxebOJP
 
 ### Interior Landing Page
 Description: A landing page for an interior design firm, showcasing their portfolio and services.
+- https://codepen.io/RjayCode/pen/bGZQrZo
 
 ### Landing Page Project
 Description: A landing page for a specific project or product, featuring engaging visuals and call-to-action elements.
