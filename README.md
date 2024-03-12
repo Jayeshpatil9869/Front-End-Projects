@@ -39,6 +39,7 @@ Description: A landing page for an interior design firm, showcasing their portfo
 
 ### Landing Page Project
 Description: A landing page for a specific project or product, featuring engaging visuals and call-to-action elements.
+- https://codepen.io/RjayCode/pen/NWJeGzK
 
 ### Layout Animation
 Description: An animated webpage with layout transitions and effects to enhance user experience.
