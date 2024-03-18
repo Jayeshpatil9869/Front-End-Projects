@@ -1,0 +1,228 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: pp mori;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.main {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://images.unsplash.com/photo-1613018264526-88faa8dadbfc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+}
+
+.left {
+  width: 35%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.527);
+}
+
+.left .nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 40px;
+  font-size: 10px;
+  font-weight: 200;
+  color: white;
+  cursor: pointer;
+}
+.icd {
+  height: 50%;
+  position: absolute;
+  top: 50%;
+  left: 1%;
+  transform: translate(0%, -50%);
+  font-size: 28px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.ctr {
+  padding: 20px;
+  position: absolute;
+  width: 35%;
+  top: 50%;
+  left: 15%;
+  transform: translate(0%, -50%);
+  /* opacity: 0; */
+}
+
+.ctr h1 {
+  color: white;
+  font-size: 5vw;
+  line-height: 1;
+}
+
+.ctr p {
+  color: white;
+  font-size: 17px;
+  margin: 20px 0;
+}
+
+.ctr button {
+  padding: 15px 40px;
+  background-color: #fff;
+  border: none;
+  font-weight: 500;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.btm {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 35%;
+  padding: 20px;
+  color: #fff;
+  font-weight: 200;
+  font-size: 12px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.right {
+  height: 100%;
+  width: 65%;
+}
+
+.rnav {
+  font-size: 25px;
+  color: #fff;
+  position: absolute;
+  right: 2%;
+  padding: 13px 0px;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  justify-content: space-between 3;
+}
+
+.btmsld {
+  position: absolute;
+  bottom: 2%;
+  overflow: hidden;
+}
+
+.carousel-container {
+  --column-count: 3;
+  --gap: 20px;
+  --scroll-speed: 20s;
+  --image-aspect-ratio: 1/1;
+  position: static;
+  overflow-x: hidden;
+  overflow-y: visible;
+  width: 100%;
+  --image-width: calc(175% / var(--column-count));
+  --carousel-width: calc(var(--image-width) * var(--slide-count));
+}
+@media (min-width: 700px) {
+  .carousel-container {
+    --column-count: 6;
+  }
+}
+.carousel-container[data-slide-count="1"] {
+  --slide-count: 1;
+}
+.carousel-container[data-slide-count="2"] {
+  --slide-count: 2;
+}
+.carousel-container[data-slide-count="3"] {
+  --slide-count: 3;
+}
+.carousel-container[data-slide-count="4"] {
+  --slide-count: 4;
+}
+.carousel-container[data-slide-count="5"] {
+  --slide-count: 5;
+}
+.carousel-container[data-slide-count="6"] {
+  --slide-count: 6;
+}
+.carousel-container[data-slide-count="7"] {
+  --slide-count: 7;
+}
+.carousel-container[data-slide-count="8"] {
+  --slide-count: 8;
+}
+.carousel-container[data-slide-count="9"] {
+  --slide-count: 9;
+}
+.carousel-container[data-slide-count="10"] {
+  --slide-count: 10;
+}
+.carousel-container[data-slide-count="11"] {
+  --slide-count: 11;
+}
+.carousel-container[data-slide-count="12"] {
+  --slide-count: 12;
+}
+.carousel-container[data-slide-count="13"] {
+  --slide-count: 13;
+}
+.carousel-container[data-slide-count="14"] {
+  --slide-count: 14;
+}
+.carousel-container[data-slide-count="15"] {
+  --slide-count: 15;
+}
+.carousel-container[data-slide-count="16"] {
+  --slide-count: 16;
+}
+.carousel-container[data-slide-count="17"] {
+  --slide-count: 17;
+}
+.carousel-container[data-slide-count="18"] {
+  --slide-count: 18;
+}
+.carousel-container[data-slide-count="19"] {
+  --slide-count: 19;
+}
+.carousel-container[data-slide-count="20"] {
+  --slide-count: 20;
+}
+.carousel-container .carousel {
+  display: flex;
+  animation: scroll var(--scroll-speed) linear infinite;
+}
+.carousel-container .carousel:hover {
+  animation-play-state: paused;
+}
+.carousel-container .carousel .logo {
+  flex: 0 0 auto;
+  width: calc(var(--image-width) - var(--gap));
+}
+.carousel-container .carousel .logo + .logo {
+  margin-left: var(--gap);
+}
+
+.carousel-container .carousel .logo img {
+  aspect-ratio: var(--image-aspect-ratio);
+  width: 100%;
+  object-fit: contain;
+  transition: transform 0.2s ease-in-out;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-1 * var(--carousel-width)));
+  }
+}
