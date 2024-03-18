@@ -47,12 +47,15 @@ Description: An animated webpage with layout transitions and effects to enhance 
 
 ### Magnet Effect
 Description: An interactive effect simulating a magnet attracting objects on the screen.
+- https://codepen.io/RjayCode/pen/poYmJZw
 
 ### Modern Fashion
 Description: A modern fashion website showcasing the latest trends, collections, and fashion news.
+- https://codepen.io/RjayCode/pen/KKEbdrz
 
 ### Sands of Time
 Description: A visually captivating webpage featuring an animation inspired by the concept of time.
+- https://codepen.io/RjayCode/pen/YzMKLPK
 
 ### Simple Lonely Web Page
 Description: A minimalist webpage with a simple design, focusing on content and typography.
