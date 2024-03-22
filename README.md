@@ -59,14 +59,17 @@ Description: A visually captivating webpage featuring an animation inspired by t
 
 ### Simple Lonely Web Page
 Description: A minimalist webpage with a simple design, focusing on content and typography.
+- https://codepen.io/RjayCode/pen/GRePpBz
 
 ### Tours Page
 Description: A webpage showcasing various tour packages and travel destinations with stunning visuals.
 
 ### Tura UI Design Page
 Description: A UI design webpage showcasing user interface designs for web and mobile applications.
+- https://codepen.io/RjayCode/pen/OJqeedW
 
 ### Unstoppable webdesing
+- https://codepen.io/RjayCode/pen/mdgPENB
 
 ---
 
